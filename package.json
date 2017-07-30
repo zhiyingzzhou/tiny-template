@@ -1,0 +1,16 @@
+{
+  "name": "tiny-template",
+  "version": "1.0.0",
+  "description": "javascript template engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "template"
+  ],
+  "main": "./index.js",
+  "author": "zhiyingzzhou",
+  "license": "MIT"
+}
